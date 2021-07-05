@@ -50,7 +50,7 @@
         "@types/body-parser": "^1.17.1",
         "@types/express": "^4.17.1",
         "@types/lodash": "^4.14.137",
-        "@types/websocket": "^0.0.40",
+        "@types/websocket": "^1.0.3",
         "cross-env": "^5.1.4",
         "download-cli": "^1.0.5",
         "ethereum-types": "^3.0.0",
