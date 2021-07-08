@@ -13,7 +13,7 @@ jobs:
                       - v1-dependencies-
             - run:
                   name: install-yarn
-                  command: sudo npm install --global yarn@1.9.4
+                  command: sudo npm install --global yarn@1.9.4 --force
             - run:
                   name: yarn
                   command: yarn --frozen-lockfile install || yarn --frozen-lockfile install
